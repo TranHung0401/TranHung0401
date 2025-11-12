@@ -15,8 +15,80 @@
 
 ---
 
-### 🎧 Recently played on Spotify
-[![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
+<!-- ABOUT ME SECTION -->
+
+<h2 align="center"> 💬 ABOUT ME 😁</h2>
+
+<table align="left">
+  <thead>
+    <tr>
+      <th align="center"><h3><strong>INFO</strong></h3></th>
+      <th align="center"><h3><strong>DETAIL</strong></h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>REAL NAME</strong></td>
+      <td>Trần Nguyễn Thái Bình</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>NICKNAME</strong></td>
+      <td>Kevin Nitro</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>GENDER</strong></td>
+      <td>Male 👨</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>LOCATION</strong></td>
+      <td>Ho Chi Minh City, Vietnam</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>OCCUPATION</strong></td>
+      <td>Undergraduate 👨‍🎓</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>SCHOOL</strong></td>
+      <td>University of Information Technology<br><em>(UIT)</em> - VNUHCM <em>(11/9/23)</em></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>MAJOR</strong></td>
+      <td>Software Engineering 👨🏻‍💻</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>HOBBIES</strong></td>
+      <td>Guitar 🎸, Movies 🍿, Music 🎧,<br>Photograph 📸</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2" align="center">
+        <pre>I use <strong>Arch</strong> 😎 BTW</pre>
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
+<div align="right">
+  <div align="center">
+    <a href="https://github.com/KevinNitroG">
+      <img src="https://komarev.com/ghpvc/?username=KevinNitroG&color=82A0D8&style=for-the-badge&label=hit" alt="Hit from 21/12/23">
+    </a>
+    <a href="https://github.com/KevinNitroG">
+      <img src="https://img.shields.io/badge/website-ECEE81?style=for-the-badge">
+    </a>
+    <br>
+    <a href="https://wakatime.com/@018b410d-fa7b-44ba-a5de-f025fcbeb499"><img src="https://wakatime.com/badge/user/018b410d-fa7b-44ba-a5de-f025fcbeb499.svg?style=for-the-badge" alt="Total time coded since Oct 18 2023" /></a>
+  </div>
+  <!-- Spotify Github Profile: https://github.com/kittinan/spotify-github-profile -->
+  <div align="center">
+    <a align="center" href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ms2mpwauroluxnjudw7a6u336e&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ms2mpwauroluxnjudw7a6u336e&cover_image=true&theme=default&show_offline=false&background_color=1a1b27&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" width="260px">
+    </a>
+  </div>
+</div>
+
+<hr width="100%">
 
 ---
 
