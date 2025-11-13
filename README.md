@@ -90,7 +90,7 @@
 ---
 
 ### ⏱️ Coding Stats (WakaTime)
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=HungTran)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=TranHung0401)
 
 ---
 
