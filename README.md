@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm HungTran</h1>
-<h3 align="center">Developer • Music lover</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+</p>
 
+---
+
+<h1 align="center">Hi 👋, I'm HungTran</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!;Coding+with+coffee+%E2%98%95;Enjoying+music+while+developing+%F0%9F%8E%B6" alt="Typing SVG" />
 </p>
