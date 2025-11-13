@@ -95,7 +95,7 @@
 ---
 
 ### 💬 About Me
-- 🌱 Currently learning: **AI Automation, Streaming Tech**
+- 🌱 Currently learning: **AI Automation, Python**
 - 🎵 Love making and listening to lo-fi music  
 - 📫 Reach me at **hungtrangrouphcm@gmail.com**
 
