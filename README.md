@@ -1,5 +1,7 @@
+![](https://komarev.com/ghpvc/?username=TranHung0401&color=blue)
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 </p>
 
 ---
