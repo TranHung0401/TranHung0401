@@ -5,8 +5,11 @@
 </p>
 
 ---
+<div align="center">
+  
+![snake](https://github.com/TranHung0401/TranHung0401/blob/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake.svg)
+</div>
 
 ---
 
