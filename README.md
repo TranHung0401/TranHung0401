@@ -1,7 +1,5 @@
 <img width="1600" height="640" alt="journey-cover" src="https://github.com/user-attachments/assets/951b035f-d60c-4db9-9ea1-c8f9b3b77231" />![](https://komarev.com/ghpvc/?username=TranHung0401&color=blue)
 
-![Uploading journey-cover.svg…]()
-
 <div align="center">
   
 ![snake](https://github.com/TranHung0401/TranHung0401/blob/output/github-contribution-grid-snake.svg)
